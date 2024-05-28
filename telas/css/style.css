@@ -1,0 +1,73 @@
+body {
+    background-color: #32F3FF;
+  }
+  
+  .logo {
+    text-align: center;
+    margin-top: 150px;
+  }
+  
+  .entrar {
+    text-align: center;
+  }
+  
+  .entrar2 {
+    background-color: #1400FF;
+    color: white;
+    border: none;
+    padding: 8px 100px;
+    width: 520px;
+    height: 70px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 35px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+  
+  .email {
+    text-align: center;
+  }
+  
+  .email2 {
+    width: 570px;
+    height: 50px;
+    font-size: 30px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    border: none;
+  }
+  
+  .senha {
+    text-align: center;
+  }
+  
+  .senha2 {
+    width: 570px;
+    height: 50px;
+    font-size: 30px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+    border: none;
+  }
+  
+  .esqueceusenha {
+    text-align: center;
+    margin-right: 275px;
+    margin-top: -15px;
+    font-family: poppins;
+    font-size: 24px;
+    color: black;
+    cursor: pointer;
+  }
+  
+  .criar {
+    text-align: center;
+    margin-left: 410px;
+    margin-top: -59px;
+    font-family: poppins;
+    font-size: 24px;
+    color: black;
+    cursor: pointer;
+  }  

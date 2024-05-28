@@ -1,0 +1,96 @@
+body {
+    background: #32F3FF;
+}
+
+.cadastro {
+    text-align: center;
+    margin-top: 180px;
+    margin-bottom: 150px;
+    font-family: poppins;
+    font-size: 50px;
+    color: #1400FF;
+    
+}
+
+.email {
+    text-align: center;
+}
+
+.email2 {
+    width: 700px;
+    height: 60px;
+    margin-bottom: 35px;
+    font-size: 30px;
+    border: none;
+    border-radius: 20px;
+}
+
+.nome {
+    text-align: center;
+}
+
+.nome2 {
+    width: 700px;
+    height: 60px;
+    margin-bottom: 35px;
+    font-size: 30px;
+    border: none;
+    border-radius: 20px;
+}
+
+.telefone {
+    text-align: center;
+}
+
+.telefone2 {
+    width: 700px;
+    height: 60px;
+    margin-bottom: 35px;
+    font-size: 30px;
+    border: none;
+    border-radius: 20px;
+}
+
+.cpf {
+    text-align: center;
+}
+
+.cpf2 {
+    width: 700px;
+    height: 60px;
+    margin-bottom: 35px;
+    font-size: 30px;
+    border: none;
+    border-radius: 20px;
+}
+
+.senha {
+    text-align: center;
+}
+
+.senha2 {
+    width: 700px;
+    height: 60px;
+    margin-bottom: 35px;
+    font-size: 30px;
+    border: none;
+    border-radius: 20px;
+}
+
+.concluir {
+    text-align: center;
+}
+
+.concluir2 {
+  background-color: #1400FF;
+  color: white;
+  border: none;
+  padding: 8px 100px;
+  width: 520px;
+  height: 70px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 35px;
+  cursor: pointer;
+  border-radius: 12px;
+}
